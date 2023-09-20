@@ -11,3 +11,4 @@ The url links had been collected from open datasets of the University of New Bru
 we have applied 5 ml models: knn,logistic,random forest,decision tree,svm and 2 deep learning models: neutral network, cnn and 2 model boosters: adaboost and Xgbboost
 
 # future Scope
+To increase accuracy, we will implement Association rule Mining for continuous feature analysis
