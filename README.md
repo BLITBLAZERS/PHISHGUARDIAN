@@ -1,3 +1,5 @@
 # PHISHGUARDIAN
 Develop an AI/ML-powered tool to detect phishing domains among newly registered websites using techniques like backend code/content similarity and web page image analysis. Evaluate based on probability scores, speed of detecting new domains, and user-friendliness
-
+#objective
+The primary objective of detecting phishing websites is to protect users from fraudulent online schemes that aim to steal personal information and financial data. By identifying and blocking phishing sites, this practice prevents financial fraud, maintains trust in online services, ensures legal compliance, safeguards brand reputation, and promotes cybersecurity awareness. Various legitimate and phishing urls are combined to make dataset and various features had been extraded based on url,domain, html and web image analysis.Detection methods include machine learning algorithms, deep learning, and model boosters, all working together to mitigate the risk of phishing attacks.The dataset is decentralized to improve the security of our data.
+#data collection
